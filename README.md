@@ -8,3 +8,5 @@
 <li>Adicione uma lista de links que pode ser usada para enviar o usuário para outros sites</li>
 <li>Opcional: Adicione ícones com links para outras redes sociais</li>
 </ul>
+<h1>Resultado:</h1>
+<a href="https://gabrielmarinho1.github.io/Social-Tree-Rocketseat/">https://gabrielmarinho1.github.io/Social-Tree-Rocketseat/</a>
