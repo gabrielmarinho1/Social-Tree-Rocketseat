@@ -7,4 +7,4 @@
 <li>Adicione uma imagem de perfil</li>
 <li>Adicione uma lista de links que pode ser usada para enviar o usuário para outros sites</li>
 <li>Opcional: Adicione ícones com links para outras redes sociais</li>
-</ul
+</ul>
